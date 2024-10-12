@@ -8,7 +8,7 @@ comm==0.2.2
 decorator==5.1.1
 executing==2.0.1
 Flask==3.0.3
-gunicore==23.0.0
+gunicore==24.2
 idna==3.7
 ipykernel==6.29.5
 ipython==8.26.0
